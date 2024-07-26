@@ -1,1 +1,1 @@
-alert("hello")
+console.log("one her")
