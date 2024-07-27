@@ -1,2 +1,2 @@
-console.log("one her")
-let x=5
+alert("hello")
+console.log("hello")
